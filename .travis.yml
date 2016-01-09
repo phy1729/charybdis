@@ -1,6 +1,5 @@
 language: C
-script: ./configure && make
 compiler:
   - clang
   - gcc
-
+script: ./configure && make
